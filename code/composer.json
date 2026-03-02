@@ -1,0 +1,19 @@
+{
+    "name": "admin/kltn",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Kltn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bang187",
+            "email": "congbang180703@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.5",
+        "phpoffice/phpspreadsheet": "^1.23",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
