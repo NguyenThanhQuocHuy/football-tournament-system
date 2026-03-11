@@ -5,10 +5,10 @@ Website quản lý giải đấu bóng đá phong trào/bán chuyên.
 Hỗ trợ ban tổ chức quản lý đội bóng, cầu thủ, lịch thi đấu, kết quả và bảng xếp hạng.
 
 ## Setup Database
-Database name: tournament_db
-Server: localhost
-username = root
-password = ""
+- Database name: tournament_db
+- Server: localhost
+- username = root
+- password = ""
 
 ## Features
 - Quản lý giải đấu
